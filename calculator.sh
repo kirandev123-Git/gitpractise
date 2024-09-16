@@ -9,3 +9,4 @@ Branch division
 
 Branch multiplication
 
+Merge branch
