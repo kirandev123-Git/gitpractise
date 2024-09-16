@@ -10,3 +10,5 @@ Branch division
 Branch multiplication
 
 Merge branch
+
+Rebase branch 
